@@ -1,2 +1,2 @@
 # js-data-structure
-Just a simple data structure learning
+Just a simple javascript data structure learning
